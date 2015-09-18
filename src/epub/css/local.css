@@ -44,6 +44,32 @@ blockquote.inscription i{
 	font-variant: normal;
 }
 
+*[epub|type~="z3998:verse"] p,
+*[epub|type~="z3998:poem"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:verse"] p span,
+*[epub|type~="z3998:poem"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+*[epub|type~="z3998:verse"] br,
+*[epub|type~="z3998:poem"] br{
+	display: none;
+}
+
+*[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+*[epub|type~="z3998:poem"] span.i1{
+	text-indent: 0;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
 *[lang]:not(html),
