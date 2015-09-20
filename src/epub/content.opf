@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-machen/short-fiction</dc:identifier>
-		<dc:date>RELEASEDATE</dc:date>
-		<meta property="dcterms:modified">MODIFIEDDATE</meta>
+		<dc:date>2015-09-20T03:11:01Z</dc:date>
+		<meta property="dcterms:modified">2015-09-20T03:11:01Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -41,7 +41,7 @@
 		<dc:source>http://www.gutenberg.org/ebooks/14044</dc:source>
 		<dc:source>http://www.gutenberg.org/ebooks/25016</dc:source>
 		<dc:source>http://www.gutenberg.org/ebooks/35611</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
+		<meta property="se:word-count">104327</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Arthur_Machen#Selected_works</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-machen_short-fiction</meta>
 		<dc:creator id="author">Arthur Machen</dc:creator>
