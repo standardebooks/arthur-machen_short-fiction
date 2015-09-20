@@ -17,49 +17,66 @@
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
 		<dc:title id="title">Short Fiction</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="file-as" refines="#title">Short Fiction</meta>
+		<dc:subject id="subject-1">Horror tales, English</dc:subject>
+		<dc:subject id="subject-2">Supernatural -- Fiction</dc:subject>
+		<dc:subject id="subject-3">World War, 1914-1918 -- Fiction</dc:subject>
+		<dc:subject id="subject-4">War stories, English</dc:subject>
+		<dc:subject id="subject-5">Paranormal fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/25016</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/25016</meta>
+		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/14044</meta>
+		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/14044</meta>
+		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/14044</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Horror</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONGDESCRIPTION
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/14044</dc:source>
 		<dc:source>http://www.gutenberg.org/ebooks/25016</dc:source>
 		<dc:source>http://www.gutenberg.org/ebooks/35611</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Arthur_Machen#Selected_works</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-machen_short-fiction</meta>
 		<dc:creator id="author">Arthur Machen</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">NACOAFLINK</meta>
+		<meta property="file-as" refines="#author">Machen, Arthur</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Machen</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50042012.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">CONTRIB1</dc:contributor>
-		<meta property="file-as" refines="#translator">CONTRIB1SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
+		<dc:contributor id="transcriber-1">Tom Harris</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Harris, Tom</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="transcriber-2">Suzanne Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Shell, Suzanne</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Stephen Blundell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Blundell, Stephen</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Dave Haren</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Haren, Dave</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Marc D'Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">D'Hooghe, Marc</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-6">http://http://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -72,15 +89,33 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-fragment-of-life.xhtml" id="a-fragment-of-life.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-bowmen.xhtml" id="the-bowmen.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dazzling-light.xhtml" id="the-dazzling-light.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-great-god-pan.xhtml" id="the-great-god-pan.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-great-return.xhtml" id="the-great-return.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-inmost-light.xhtml" id="the-inmost-light.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-monstrance.xhtml" id="the-monstrance.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-soldiers-rest.xhtml" id="the-soldiers-rest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-white-people.xhtml" id="the-white-people.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="the-great-god-pan.xhtml"/>
+		<itemref idref="the-inmost-light.xhtml"/>
+		<itemref idref="the-white-people.xhtml"/>
+		<itemref idref="the-bowmen.xhtml"/>
+		<itemref idref="the-soldiers-rest.xhtml"/>
+		<itemref idref="the-monstrance.xhtml"/>
+		<itemref idref="the-dazzling-light.xhtml"/>
+		<itemref idref="the-great-return.xhtml"/>
+		<itemref idref="a-fragment-of-life.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="unlicense.xhtml"/>
 	</spine>
