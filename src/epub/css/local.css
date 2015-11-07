@@ -20,7 +20,6 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-span[epub|type~="z3998:postscript"],
 span.signature{
 	font-variant: small-caps;
 }
@@ -88,10 +87,6 @@ blockquote.inscription i{
 *[epub|type~="z3998:verse"] br,
 *[epub|type~="z3998:poem"] br{
 	display: none;
-}
-
-*[epub|type~="z3998:poem"] p + p{
-	margin-top: 1em;
 }
 
 p span.i1{
