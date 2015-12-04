@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-machen/short-fiction</dc:identifier>
 		<dc:date>2015-09-20T03:11:01Z</dc:date>
-		<meta property="dcterms:modified">2015-11-24T05:33:35Z</meta>
+		<meta property="dcterms:modified">2015-12-04T07:44:24Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,6 +43,7 @@
 		<dc:source>http://www.gutenberg.org/ebooks/25016</dc:source>
 		<dc:source>http://www.gutenberg.org/ebooks/35611</dc:source>
 		<meta property="se:word-count">104317</meta>
+		<meta property="se:reading-ease.flesch">73.1</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Arthur_Machen#Selected_works</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-machen_short-fiction</meta>
 		<dc:creator id="author">Arthur Machen</dc:creator>
@@ -50,6 +51,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Machen</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50042012.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Arnold Böcklin</dc:contributor>
 		<meta property="file-as" refines="#artist">Böcklin, Arnold</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Arnold_B%C3%B6cklin</meta>
