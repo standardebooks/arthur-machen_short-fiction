@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-machen/short-fiction</dc:identifier>
 		<dc:date>2015-09-20T03:11:01Z</dc:date>
-		<meta property="dcterms:modified">2016-06-21T01:33:05Z</meta>
-		<meta property="se:revision-number">24</meta>
+		<meta property="dcterms:modified">2016-10-31T20:10:56Z</meta>
+		<meta property="se:revision-number">26</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,8 +35,8 @@
 		<dc:description id="description">A collection of nine short fiction works by influentual supernatural and horror author Arthur Machen.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Arthur Machen was a Welsh man of letters who wrote his most famous work in the late 1890s and early 1900s.  While his body of work is wide, he&amp;rsquo;s perhaps best known for his supernaturally-flavored proto-horror short stories.  &lt;i&gt;The Great God Pan&lt;/i&gt;&amp;mdash;perhaps his most famous work&amp;mdash;along with &amp;ldquo;The Inmost Light&amp;rdquo; and &lt;i&gt;The White People&lt;/i&gt; deeply influenced later writers like H. P. Lovecraft.  Stephen King has gone so far as to call &lt;i&gt;The Great God Pan&lt;/i&gt; &amp;ldquo;maybe the best [horror story] in the English language.&amp;rdquo;&lt;/p&gt;
-			&lt;p&gt;Besides his horror short stories, Machen also wrote a handful of post World War I supernatural shorts.  One of these, &amp;ldquo;The Bowmen,&amp;rdquo; was published in a popular newspaper and was implied to be non-fiction, leading to the creation of the &amp;ldquo;Angels of Mons&amp;rdquo; urban legend.  This collection includes several other World War I short stories published by Machen.&lt;/p&gt;
+			&lt;p&gt;Arthur Machen was a Welsh man of letters who wrote his most famous work in the late 1890s and early 1900s.  While his body of work is wide, he’s perhaps best known for his supernaturally-flavored proto-horror short stories.  &lt;i&gt;The Great God Pan&lt;/i&gt;—perhaps his most famous work—along with “The Inmost Light” and &lt;i&gt;The White People&lt;/i&gt; deeply influenced later writers like H. P. Lovecraft.  Stephen King has gone so far as to call &lt;i&gt;The Great God Pan&lt;/i&gt; “maybe the best [horror story] in the English language.”&lt;/p&gt;
+			&lt;p&gt;Besides his horror short stories, Machen also wrote a handful of post World War I supernatural shorts.  One of these, “The Bowmen,” was published in a popular newspaper and was implied to be non-fiction, leading to the creation of the “Angels of Mons” urban legend.  This collection includes several other World War I short stories published by Machen.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
