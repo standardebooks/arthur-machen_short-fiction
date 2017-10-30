@@ -15,7 +15,6 @@ span.signature{
 	font-variant: small-caps;
 }
 
-
 p.headline,
 p.subheadline{
 	font-variant: small-caps;
@@ -26,7 +25,6 @@ p.subheadline{
 p.headline{
 	font-size: 1.25em;
 }
-
 
 section[epub|type~="chapter"]{
 	page-break-after: always;
