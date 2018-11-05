@@ -10,14 +10,13 @@ span.signature{
 	font-variant: small-caps;
 }
 
-p.headline,
-p.subheadline{
+blockquote header p{
 	font-variant: small-caps;
 	text-align: center;
-	margin: 1em;
+	text-indent: 0;
 }
 
-p.headline{
+blockquote header p:first-child{
 	font-size: 1.25em;
 }
 
@@ -94,15 +93,24 @@ p[epub|type~="z3998:diary-entry"]{
 	margin: 1em 0;
 }
 
-blockquote.fragment{
+header + blockquote{
 	margin: 0;
+	margin-top: 1em;
+}
+
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
 }
 
 footer{
 	text-align: right;
 }
 
-blockquote.owner p,
+#the-inmost-light-chapter-4 blockquote p,
 footer p{
 	text-indent: 0;
 }
