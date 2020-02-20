@@ -56,12 +56,12 @@ section > header [epub|type~="epigraph"]{
 }
 /* End epigraphs in section headers */
 
-blockquote.inscription p{
+#the-great-god-pan-chapter-8 blockquote:last-of-type p{
 	text-indent: 0;
 	font-variant: all-small-caps;
 }
 
-blockquote.inscription i{
+#the-great-god-pan-chapter-8 blockquote:last-of-type i{
 	font-variant: normal;
 }
 
