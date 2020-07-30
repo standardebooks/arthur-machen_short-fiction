@@ -21,13 +21,14 @@ blockquote header p:first-child{
 }
 
 section[epub|type~="chapter"]{
-	page-break-after: always;
+	break-after: page;
 }
 
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
+	-epub-hyphens: none;
 }
 
 [epub|type~="epigraph"] cite{
