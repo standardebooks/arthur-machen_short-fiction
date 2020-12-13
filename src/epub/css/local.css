@@ -103,10 +103,10 @@ header + blockquote{
 }
 
 footer{
+	margin-top: 1em;
 	text-align: right;
 }
 
-#the-inmost-light-chapter-4 blockquote p,
-footer p{
+#the-inmost-light-chapter-4 blockquote p{
 	text-indent: 0;
 }
