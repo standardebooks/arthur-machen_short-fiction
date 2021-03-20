@@ -83,8 +83,8 @@
 		<dc:contributor id="transcriber-4">Dave Haren</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Haren, Dave</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-5">Marc D'Hooghe</dc:contributor>
-		<meta property="file-as" refines="#transcriber-5">D'Hooghe, Marc</meta>
+		<dc:contributor id="transcriber-5">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-6">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-6">Online Distributed Proofreading Team, The</meta>
