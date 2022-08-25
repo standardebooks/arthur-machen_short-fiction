@@ -110,3 +110,13 @@ footer{
 #the-inmost-light-chapter-4 blockquote p{
 	text-indent: 0;
 }
+
+/* All letters */
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+/* End all letters */
