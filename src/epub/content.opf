@@ -49,7 +49,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of nine short fiction works by influential supernatural and horror author Arthur Machen.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-machen"&gt;Arthur Machen&lt;/a&gt; was a Welsh man of letters who wrote his most famous work in the late 1890s and early 1900s. While his body of work is wide, he’s perhaps best known for his supernaturally-flavored proto-horror short stories. &lt;i&gt;The Great God Pan&lt;/i&gt;—perhaps his most famous work—along with “The Inmost Light” and &lt;i&gt;The White People&lt;/i&gt; deeply influenced later writers like &lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft. Stephen King has gone so far as to call &lt;i&gt;The Great God Pan&lt;/i&gt; “maybe the best [horror story] in the English language.”&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-machen"&gt;Arthur Machen&lt;/a&gt; was a Welsh man of letters who wrote his most famous works in the late 1890s and early 1900s. While his body of work is wide, he’s perhaps best known for his supernaturally-flavored proto-horror short stories. &lt;i&gt;The Great God Pan&lt;/i&gt;—perhaps his most famous work—along with “The Inmost Light” and &lt;i&gt;The White People&lt;/i&gt; deeply influenced later writers like &lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft. Stephen King has gone so far as to call &lt;i&gt;The Great God Pan&lt;/i&gt; “maybe the best [horror story] in the English language.”&lt;/p&gt;
 			&lt;p&gt;Besides his horror short stories, Machen also wrote a handful of post World War I supernatural shorts. One of these, “The Bowmen,” was published in a popular newspaper and was implied to be non-fiction, leading to the creation of the “Angels of Mons” urban legend. This collection includes several other World War I short stories published by Machen.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -59,6 +59,7 @@
 		<dc:source>https://books.google.com/books?id=UKUMAAAAYAAJ</dc:source>
 		<dc:source>https://books.google.com/books?id=ynYRAAAAYAAJ</dc:source>
 		<dc:source>https://archive.org/details/greatreturn00machuoft</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/35617</dc:source>
 		<meta property="se:word-count">104333</meta>
 		<meta property="se:reading-ease.flesch">73.1</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Arthur_Machen#Selected_works</meta>
@@ -93,6 +94,7 @@
 		<meta property="file-as" refines="#transcriber-6">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-6">https://www.pgdp.net</meta>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
@@ -102,6 +104,13 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Brad Taylor</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Taylor, Brad</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/btaylor8</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
