@@ -29,20 +29,17 @@
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Horror tales, English</dc:subject>
-		<dc:subject id="subject-2">Supernatural -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Paranormal fiction</dc:subject>
 		<dc:subject id="subject-3">World War, 1914-1918 -- Fiction</dc:subject>
 		<dc:subject id="subject-4">War stories, English</dc:subject>
-		<dc:subject id="subject-5">Paranormal fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062088</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">sh2008111539</meta>
+		<meta property="term" refines="#subject-2">sh98004865</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008113819</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85145222</meta>
-		<meta property="authority" refines="#subject-5">LCSH</meta>
-		<meta property="term" refines="#subject-5">sh98004865</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Shorts</meta>
