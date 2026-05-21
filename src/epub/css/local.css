@@ -94,7 +94,7 @@ header + blockquote{
 	margin-top: 1em;
 }
 
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;
